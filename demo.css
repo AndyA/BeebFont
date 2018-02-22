@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Beeb MODE 0"
+  src: url(release/Beeb-MODE0.eot) format("embedded-opentype"),
+  url(release/Beeb-MODE0.woff) format("woff"),
+  url(release/Beeb-MODE0.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Beeb MODE 1"
+  src: url(release/Beeb-MODE1.eot) format("embedded-opentype"),
+  url(release/Beeb-MODE1.woff) format("woff"),
+  url(release/Beeb-MODE1.woff2) format("woff2");
+}
+
+@font-face {
+  font-family: "Beeb MODE 2"
+  src: url(release/Beeb-MODE2.eot) format("embedded-opentype"),
+  url(release/Beeb-MODE2.woff) format("woff"),
+  url(release/Beeb-MODE2.woff2) format("woff2");
+}
+
+body {
+  font-family: "Beeb MODE 0";
+  color: white;
+  background: black;
+  font-size: 2em;
+}
